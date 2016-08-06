@@ -10,11 +10,11 @@ body {
 }
 
 footer {
-  width: 720px;
   margin: auto;
   color: #999999;
   font-family: "Avenir Next";
-  font-size: 8px;
+  font-size: 11px;
+  padding: 400px 40px 40px 40px;
 }
 
 h1 {
