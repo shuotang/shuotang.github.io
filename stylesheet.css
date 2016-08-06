@@ -20,3 +20,8 @@ p {
   font-size: 14px;
   margin: 20px auto 5px auto;
  }
+
+span.highlight
+{
+background-color:#E9508A
+}
