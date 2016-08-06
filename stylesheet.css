@@ -1,7 +1,8 @@
 html {
-  body background="http://ww3.sinaimg.cn/large/0060lm7Tgw1f6k25q0srcj30mp0g7q33.jpg"
+  background-color: #222222;
   padding: 180px 40px 40px 40px;
 }
+
 body {
   width: 720px;
   margin: auto;
