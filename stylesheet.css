@@ -5,11 +5,12 @@ html {
 body {
   width: 720px;
   margin: auto;
-  font-family: ,"Avenir Next","Monaco", "Segoe UI", "Gill Sans", Ubuntu, sans-serif;
+  font-family: "Monaco";
 }
 
 h1 {
   color: #d4d4d4;
+  font-family: "Avenir Next";
   font-size: 24px;
   margin: 20px auto 5px auto;
 }
