@@ -22,7 +22,7 @@ p {
  }
 
 .link:hover {
-	color: #FF0707;
+	color: #E9508A;
 }
 
 .fi {
@@ -33,5 +33,5 @@ p {
 p.dribbble {color:#E9508A}
 
 p.dribbble:hover{
-	color: #F26B6B;
+	color: #E9508A;
 }
