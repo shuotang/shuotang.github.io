@@ -9,6 +9,15 @@ body {
   font-family: "Monaco";
 }
 
+footer {
+  width: 720px;
+  margin: auto;
+  color: #999999;
+  font-family: "Avenir Next";
+  font-size: 12px;
+  margin: 20px auto 5px auto;
+}
+
 h1 {
   color: #d4d4d4;
   font-family: "Avenir Next";
