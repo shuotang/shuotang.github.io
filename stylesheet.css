@@ -21,7 +21,22 @@ p {
   margin: 20px auto 5px auto;
  }
 
-span.highlight
+span.meituan
 {
-  color:#E9508A
+  color:#06C1AE
+}
+
+span.dribbble
+{
+  color:#E84F89
+}
+
+span.twitter
+{
+  color:#2AA3EF
+}
+
+span.mail
+{
+  color:#FFD552
 }
