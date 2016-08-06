@@ -20,18 +20,3 @@ p {
   font-size: 14px;
   margin: 20px auto 5px auto;
  }
-
-.link:hover {
-	color: #E9508A;
-}
-
-.fi {
-  display: inline-block;
-  font-size: 35px;
-}
-
-p.dribbble {color:#E9508A}
-
-p.dribbble:hover{
-	color: #E9508A;
-}
